@@ -1,6 +1,6 @@
 # Phoneword
 
-A multi-platform .NET MAUI application on the .NET 8 Runtime platform using C# and XAML. Implements the .NET MAUI Essentials package to dial a phone on Android devices.
+A multi-platform .NET MAUI application on .NET 8 Runtime using C# and XAML that implements phone dial functionality on Android devices.
 
 ## User Interface
 
